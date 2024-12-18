@@ -5,16 +5,16 @@ Welcome to the Furniture Sales Dashboard repository! This project demonstrates h
 This project focuses on analyzing and visualizing sales data for a furniture business, providing key metrics and trends to aid decision-making. The dashboard offers interactive and intuitive visualizations to help stakeholders gain deeper insights into business performance.
 
 ## ✨ Key Features
-#### Order Trends Analysis:
+- #### Order Trends Analysis:
 Visualizes yearly and monthly trends to track sales growth and seasonality.
 
-#### Regional Performance Metrics:- 
+- #### Regional Performance Metrics:- 
 Highlights top-performing regions, states, and cities like California, New York, and Texas.
 
-#### Category and Segment Breakdown:
+- #### Category and Segment Breakdown:
 Analyzes order distribution across categories (Office Supplies, Furniture, Technology) and customer segments (Consumer, Corporate, Home Office).
 
-#### Shipping Mode Insights:
+- #### Shipping Mode Insights:
 Evaluates the efficiency of delivery methods (Standard, Second, First Class, Same Day).
 
 ## 📂 Dataset Overview
