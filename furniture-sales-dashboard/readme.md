@@ -37,6 +37,6 @@ The dataset includes details like order IDs, order dates, product categories, se
 
 ## 📈 Dashboard Insights
 
-https://github.com/priyannkakollekar/Looker-Studio/blob/main/furniture-sales-dashboard/Furniture-Sales-Dashboard.png
+<img src="https://github.com/priyannkakollekar/Looker-Studio/blob/main/furniture-sales-dashboard/Furniture-Sales-Dashboard.png" />
 
 
